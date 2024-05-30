@@ -1,8 +1,8 @@
-# This is a sample build configuration for JavaScript.
-# Check our guides at https://confluence.atlassian.com/x/14UWN for more examples.
-# Only use spaces to indent your .yml configuration.
-# -----
-# You can specify a custom docker image from Docker Hub as your build environment.
+# Este é um exemplo de configuração de compilação para JavaScript.
+# Verifique nossos guias em https://confluence.atlassian.com/x/14UWN para mais exemplos.
+# Use apenas espaços para recuar sua configuração .yml.
+#-----
+# Você pode especificar uma imagem docker personalizada do Docker Hub como seu ambiente de construção.
 image: node:10.15.3
 
 pipelines:
