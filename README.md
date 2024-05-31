@@ -17,7 +17,11 @@ Execute o comando `ng generate component component-name` para gerar um novo comp
 
 Execute `ng build` para construir o projeto. Os artefatos dec construção serão armazenados em `dist/` no diretório. Utilize `--prod` para construção de bandeira de produção.
 
-## Rodando testes unitários
+## Como Usar
+
+A aplicação web consiste em uma página de tarefas. Sendo possível criar uma nova tarefa no botão na parte superior "Nova Tarefa", feito isso, poderá marcar como concluida pelo checkbox. Na parte direita, temos dois botões para alterar e excluir a tarefa.
+
+## Rodando Testes Unitários
 
 Execute o comando no terminal `ng test` para rodar os testes unitários pelo [Karma](https://karma-runner.github.io).
 
