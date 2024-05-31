@@ -1,4 +1,4 @@
-# ToDoApp
+# App
 
 Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
