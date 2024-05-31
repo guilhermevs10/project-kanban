@@ -1,10 +1,13 @@
 # App
 
-Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
+Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.18 e [NestJs](https://github.com/nestjs/docs.nestjs.com)  versão 10.3.2 .
 
 ## Servidor de Desenvolvimento
-
+Angular:
 Execute o comando `ng serve` pelo terminal. Navegue para o link `http://localhost:4200/`.
+
+Nest.js
+Execute o comando 'npm run start:dev' pelo terminal. Navegue para o link 'http://localhost:3000/' .
 
 ## Andaime de código
 
